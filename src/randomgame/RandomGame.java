@@ -11,6 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author jihua5758
+ * DO NOT WANNA USE ARRAYLIST
  */
 public class RandomGame {
 
